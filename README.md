@@ -13,7 +13,7 @@
 
 #### 2ª - Sempre Buscar Palavras Novas
 - Usando um dicionário ou app tradutor
-- Busque aprender palavras novas que abragem seu dia-a-dia
+- Busque aprender palavras novas que abrangem seu dia-a-dia
 - Busque as palavras no mesmo momento do ocorrido ou anote-as para buscar depois
 
 ---
