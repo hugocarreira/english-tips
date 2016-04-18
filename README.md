@@ -30,24 +30,24 @@
 
 ---
 
-### 5º - Falar Inglês Sozinho
+#### 5º - Falar Inglês Sozinho
 - Fale inglês consigo mesmo
 - Ajuda a fixar a linguagem e estimular os músculos faciais
 
 ---
 
-### 6º - Ler MUITO Em Inglês
+#### 6º - Ler MUITO Em Inglês
 - Leia muito conteúdo inglês
 
 ---
 
-### 7º - Assistir Filmes E Séries
+#### 7º - Assistir Filmes E Séries
 - Colocar legenda inglês (audio inglês)
 - Máximo de inglês que puder no conteúdo visual
 
 ---
 
-#### TODO 
+##### TODO 
 - Buscar mais dicas
 
 ---
